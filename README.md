@@ -4,9 +4,9 @@ TRUSTplus
 
 45 Second Block Time
 
-PoW 54,599,799 coins
-12,800 PoW Blocks
-Estimated 3.3 Day PoW
+-PoW 54,599,799 coins
+-12,800 PoW Blocks
+-Estimated 3.3 Day PoW
 
 197,100 Total Blocks
 PoS is 18% APR
